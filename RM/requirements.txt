@@ -5,3 +5,4 @@ torch>=2.0
 torchmetrics>=1.4
 pandas_ta==0.3.14b0
 optuna>=4.0.0
+pyarrow>=17.0.0
